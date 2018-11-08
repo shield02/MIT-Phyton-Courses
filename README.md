@@ -1,2 +1,1 @@
-# MIT-Phyton-Courses
-Phyton courses from MIT
+Python codes i try on practice sessions
